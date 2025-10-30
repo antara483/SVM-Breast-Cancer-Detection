@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs and cache
+*.log
+*.csv
+*.dat
+*.tmp
+*.bak
+*.swp
+.cache/
+.pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Model and output files
+models/
+outputs/
+
+*.csv

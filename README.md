@@ -4,6 +4,7 @@ This project focuses on building a binary classification model to predict whethe
 
 The model uses Support Vector Machines (SVM) with both Linear and RBF kernels, explores the kernel trick, and performs hyperparameter tuning and cross-validation to achieve high accuracy.
 
+![Project Screenshot](https://github.com/antara483/SVM-Breast-Cancer-Detection/blob/main/images/Screenshot.png?raw=true)
 Dataset[https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset]
 #### 🧰 Tech Stack
 
